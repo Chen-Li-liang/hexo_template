@@ -60,4 +60,10 @@
   #}{{ theme.footer.custom_text }}{#
 #}</div>
 
+<div class="BbeiAn-info">
+{{ __('蜀ICP备')}} -
+<a target="_blank"  href="http://www.miitbeian.gov.cn/">16013067号-1</a>
+</a>
+</div>
+
 {% endif %}
