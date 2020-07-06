@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 标题
-subtitle: 副标题
-avatar: 头像链接URL
-description: 个人简介
-author: 作者名称
+title: 碟儿的个人网站
+subtitle: 碟儿的生活记录
+avatar: https://ceshi-1251459004.cos.ap-guangzhou.myqcloud.com/dier/1415256421.jpg
+description: 随性、自然
+author: 碟儿
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: 博客主页URL
+url: www.dierhe.cn
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
